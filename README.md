@@ -1,6 +1,5 @@
 # ryanpriehl.github.io
 
-
 <html>
 <head>
 <style>
