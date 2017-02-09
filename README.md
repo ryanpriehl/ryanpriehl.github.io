@@ -4,8 +4,8 @@
 <html>
 <head>
 <style>
-title {
-  color: green;
+html {
+  color: pink
   background-color: blue;
 }
 </style>
