@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Page Title</title>
+<title>BEAAAAAAAAAAAAAAANS</title>
 </head>
 <body>
 
