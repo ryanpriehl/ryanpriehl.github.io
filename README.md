@@ -7,8 +7,8 @@
 </head>
 <body>
 
-<h1>I love my Mehrdaddy.</h1>
-<img src="C:\Users\013507765\Desktop\DAD.jpg" width="500" height="500">
+<h1>YA FRICKIN MORON.</h1>
+<img src="https://i.imgur.com/1lQuvya.png" width="500" height="500">
 
 </body>
 </html>
