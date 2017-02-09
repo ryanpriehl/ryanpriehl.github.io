@@ -3,6 +3,12 @@
 
 <html>
 <head>
+<style>
+title {
+  color: green;
+  background-color: blue;
+}
+</style>
 <title>BEAAAAAAAAAAAAAAANS</title>
 </head>
 <body>
