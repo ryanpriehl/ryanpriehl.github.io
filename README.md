@@ -1,7 +1,6 @@
 <html>
 <head>
 <style>
-html
 {color: pink;
 background-color: blue;
 }
